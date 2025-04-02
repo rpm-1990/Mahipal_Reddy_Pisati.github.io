@@ -74,9 +74,9 @@ Designed and deployed cloud-based applications on AWS and Azure, improving datab
 EDUCATION
 
 University of North Carolina at Charlotte	Charlotte, NC                                                                                              
-Master of Science in Information Technology	August 2023 - Dec 2024
+Master of Science in Information Technology	Aug 2023 - Dec 2024
 
 Osmania University	Hyderabad, India                                                                                              
-Bachelors in Information Technology	August 2018 - Jun 2022
+Bachelors in Information Technology	Jun 2018 - Jun 2022
 
  
